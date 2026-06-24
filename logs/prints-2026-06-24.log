@@ -1,0 +1,6 @@
+10:58:11.384 [main] INFO  pageObjects.SearchResultsPage - Waiting for filter results to load
+10:58:14.472 [main] INFO  pageObjects.SearchResultsPage - Cheapest filter applied successfully
+10:58:14.472 [main] INFO  stepDefinations.ZingBusSteps - Cheapest filter applied successfully
+10:58:14.472 [main] INFO  stepDefinations.ZingBusSteps - Scrolling to view cheapest bus
+10:58:14.476 [main] INFO  pageObjects.SearchResultsPage - Starting scroll to bring cheapest bus into view
+10:58:17.525 [main] INFO  pageObjects.SearchResultsPage - Cheapest bus is now visible at top
